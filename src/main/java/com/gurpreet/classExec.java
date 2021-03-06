@@ -78,6 +78,7 @@ public class classExec {
             }
         }
     }
+    //sum of all elements
     static void sumElement(int arrayElements[]) {
         int sum =0;
         for (int i = 0; i < arrayElements.length; i++)
